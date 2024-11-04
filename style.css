@@ -21,7 +21,7 @@ body {
     padding: 0 20px;
 }
 
-.wrapper .loading {
+.loader .loading {
     background: #fff;
     width: 30px;
     height: 30px;
@@ -42,7 +42,7 @@ body {
     animation-delay: 0.5s;
 }
 
-@keyframes Load {
+@keyframes load {
     0% {
         width: 30px;
         height: 30px;
